@@ -4,6 +4,8 @@ Daniela Rocio Rubio
 Israel Steven Orozco
 Juan Sebastian Acevedo
 
+Link Video: https://youtu.be/eGY8IYMxsn0
+
 Para el taller se seleccionan datasets 
 	Secuestro
 	Homicidios
